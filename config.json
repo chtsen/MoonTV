@@ -54,14 +54,14 @@
     },
     "www.moduzy.net": {
       "name": "魔都资源",
-      "api": "https://www.mdzyapi.com/api.php/provide/vod",
+      "api": "https://www.mdzyapi.com/api.php/provide/vod"，
       "detail": "https://www.moduzy.net"
     },
     "ffzyapi.com": {
       "name": "非凡资源",
       "api": "https://api.ffzyapi.com/api.php/provide/vod",
       "detail": "https://cj.ffzyapi.com"
-    },
+    }，
     "bfzy.tv": {
       "name": "暴风资源",
       "api": "https://bfzyapi.com/api.php/provide/vod",
@@ -136,7 +136,7 @@
       "name": "百度云zy",
       "api": "https://pz.v88.qzz.io/?url=https://api.apibdzy.com/api.php/provide/vod",
       "detail": "https://bdzy1.com"
-    },
+    }，
     "lovedan.net": {
       "name": "艾旦影视",
       "api": "https://pz.v88.qzz.io/?url=https://lovedan.net/api.php/provide/vod",
@@ -171,7 +171,7 @@
       "name": "优质资源",
       "api": "https://api.yzzy-api.com/inc/apijson.php",
       "detail": "https://1080zyk4.com"
-    },
+    }，
     "www.huyaapi.com": {
       "_comment": "污染搜索结果",
       "name": "虎牙资源",
@@ -293,7 +293,7 @@
       "name": "豆豆资源",
       "api": "https://api.douapi.cc/api.php/provide/vod",
       "detail": "https://doudouzy.com"
-    },
+    }，
     "didizy.com": {
       "name": "滴滴资源",
       "api": "https://api.ddapi.cc/api.php/provide/vod",
@@ -392,4 +392,5 @@
     }
   }
 }
+ 
  
